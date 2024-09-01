@@ -1,12 +1,10 @@
 +++
-title = "About"
+title = "About me"
 date = "2022-10-24"
 aliases = ["about", "contact"]
 [ author ]
   name = "rjindael"
 +++
-
-# About me
 
 Hi! I'm rjindael (or rj). I've gone by a variety of aliases before on the internet. Welcome to my website.
 
