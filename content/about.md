@@ -6,13 +6,15 @@ aliases = ["about", "contact"]
   name = "rjindael"
 +++
 
-Hi! I'm rjindael (or rj). I've gone by a variety of aliases before on the internet. You've managed to stumble upon my website!
+# About me
 
-I'm a 15 year old programmer from the United States. In general, I'm a full-stack developer. I've had thorough experience in multiple languages, including C#, C/C++, PHP, JS/TS, Lua, and other numerous languages. I am also proficient in reverse engineering (.NET/Unity and C++ applications), backend and frontend website development (primarily with Laravel, but also express.js and vanilla PHP), system administration (Docker, setting up and securing Linux systems, CI/CD systems and management thereof), and more. Basically speaking, I am a swiss army knife when it comes to computers.
+Hi! I'm rjindael (or rj). I've gone by a variety of aliases before on the internet. Welcome to my website.
 
-Otherwise, I maintain a hobby in election analysis, modeling, and mapping as well as political science.
+I'm a 17 year old programmer from the United States. I've had thorough experience in multiple programming languages, including C#, C/C++, PHP, JS/TS, Lua, and other numerous languages. I am also proficient in reverse engineering (.NET/Unity and C++ applications using IDA and dnSpy), backend and frontend website development (primarily with Laravel, but also express.js and vanilla PHP), system administration (Docker, setting up and securing Linux systems, CI/CD systems and management thereof), and more. I also maintain a hobby in election analysis, modeling, and mapping, as well as political science.
 
-# Contact
+Currently, I am studying 3D rendering, and creating my own custom 3D rendering engine named [bigworld](https://github.com/rjindael/bigworld) -- check it out! Otherwise, the projects that I am currently working on are listed on my GitHub profile.
+
+I can be contacted through the following methods:
 
 - **E-mail:** [rjindaal@pm.me](mailto:rjindaal@pm.me)
 - **Telegram:** [@rjindael](https://t.me/rjindael)
@@ -22,6 +24,10 @@ Otherwise, I maintain a hobby in election analysis, modeling, and mapping as wel
 If you're looking to speak to me, my preferred method of contact is either through my e-mail or starting a chat on Telegram.
 
 For encrypted communication, ProtonMail is ostensibly end-to-end encrypted but you may also attach your PGP public key as per usual to your message. Telegram is not end-to-end encrypted by default but supports it through its ["secret chats"](https://telegram.org/faq#secret-chats). Both methods are just fine for secure communication, but if you absolutely must you may message me for my Signal.
+
+Finally, my favorite flowers are bluebonnets. Check these out :D
+
+![](https://images.squarespace-cdn.com/content/v1/58ad07c0a5790afd02e780fa/1602198450735-LJU0A4SERZQICTL3OKUX/field.jpg)
 
 # Keys
 
